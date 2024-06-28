@@ -1,0 +1,27 @@
+.studentAdd{
+    padding: 55px;
+}
+
+body{
+    background-color: darkslategrey;
+}
+
+.row a{
+    color: white;
+    
+    font-size: 20px;
+    text-align: center;
+}
+
+.row a:hover{
+    color: red;
+}
+
+ h1{
+    color: yellow;
+    text-align: center;
+}
+
+.row{
+    padding-top: 200px;
+}

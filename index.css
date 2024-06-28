@@ -1,0 +1,36 @@
+body{
+    padding: 50px;
+    background: radial-gradient(rgb(233, 6, 10), rgb(240, 172, 180));
+}
+
+label{
+    font-weight: bold;
+}
+
+.contain {
+    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* This will make the container take up the full height of the viewport */
+  padding-left: 50px;
+     
+}
+
+.contain form {
+    position: relative;
+    max-width: 700px; /* Adjust this value to set the maximum width of the form */
+    width: 100%;
+    padding: 50px;
+    background-color: beige;
+    border-radius: 5px; /* Add border radius if desired */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+ 
+
+  }
+
+  h1{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+  }
